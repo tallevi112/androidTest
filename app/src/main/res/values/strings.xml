@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">androidTest</string>
+    <string name="key_api">2846af2c43784081bcf09e8e0ca10474</string>
+    <string name="countryParameter">us</string>
+</resources>
